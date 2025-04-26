@@ -46,7 +46,7 @@ If you get TensorFlow warnings:
 export TF_ENABLE_ONEDNN_OPTS=0  # Linux/Mac
 set TF_ENABLE_ONEDNN_OPTS=0     # Windows
 
-## 📊 Performance Metrics
+📊 Performance Metrics
 
 | Metric                | Score       | Measurement Method                     |
 |-----------------------|-------------|----------------------------------------|
