@@ -48,6 +48,6 @@ set TF_ENABLE_ONEDNN_OPTS=0     # Windows
 
 📊 Performance Metrics
 Metric	Score
-Answer Accuracy	92%
+Answer Accuracy	   92%
 Avg Response Time	0.4s
 Unhandled Queries	<5%
